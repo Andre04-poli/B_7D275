@@ -3,7 +3,7 @@ public class CodekataProblem {
      * Here write functions to be implemented
      * */
     public static int myProblem1(int i, int j){
-        return i+i-i;
+        return i;
     }
 
     public static int myProblem2(int i, int j){
